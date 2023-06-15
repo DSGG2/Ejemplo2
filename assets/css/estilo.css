@@ -1,0 +1,21 @@
+.negro{
+    color: white;
+    background-color: black;
+}
+
+.blanco{
+    color: black;
+    background-color: white;
+}
+
+.small-letra{
+    font-size: 8px;
+}
+
+.medium-letra{
+    font-size: 12px;
+}
+
+.large-letras{
+    font-size: 20px;
+}
